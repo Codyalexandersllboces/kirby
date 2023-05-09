@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    border: 2px solid black;
+}
+
+img{
+    max-width: 100%;
+    padding: 2%;
+}
+
+blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.top{
+    height: 100px;
+    background-color: #BC4D9F;
+}
+
+.top ul{
+    display: block;
+}
+
+.top ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 3%;
+    width: 9%;
+}
+
+.top a{
+    text-decoration: none;
+    font-size: 1.75em;
+    color: black;
+}
+
+.top a:hover{
+    color: white;
+}
+
+#home{
+    margin: 3%;
+    font-size: 1.5em;
+}
+
+#consept{
+    margin: 3%;
+    font-size: 1.5em;
+}
+
+#char{
+   margin: 3%; 
+    font-size: 1.5em;
+}
+
+#app{
+    margin: 3%;
+    font-size: 1.5em;
+}
+
+#app p{
+    padding: 1%;
+}
+
+#news{
+    margin: 3%;
+    font-size: 1.5em;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#news form *{
+    margin: 0 auto;
+}
+
+input{
+    background-color: #6FAFB6;
+}
+.botom{
+    height: 100px;
+    background-color: #BC4D9F;
+}
+
+.botom ul{
+    display: block;
+}
+
+.botom ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 3%;
+    width: 9%;
+}
+
+.botom a{
+    text-decoration: none;
+    font-size: 1.75em;
+    color: black;
+}
+
+.botom a:hover{
+    color: white;
+}
+
+
+footer{
+    background-color: #994797;
+    color: white;
+}
+
